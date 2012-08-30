@@ -6,7 +6,7 @@ This application is a C# console application that uses the [Socrata C# API](http
 Development Environment
 =======================
 
-The application was developed using MonoDevelop and the Mono 2.10.8 framework.  The application should run the .NET framework without issue.
+The application was developed using MonoDevelop and the Mono 2.10.8 framework.  The application should run on the .NET framework without issue.
 
 Dependencies
 ------------
